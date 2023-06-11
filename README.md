@@ -3,7 +3,7 @@
 ### What is Lip Reading ?
 Lipreading plays a crucial role in human communication and speech understanding. It is a notoriously difficult task for humans, specially in the absence of context1 . Most lipreading actuations, besides the lips and sometimes tongue and teeth, are latent and difficult to disambiguate without context. Machine lipreading is difficult because it requires extracting spatiotemporal features from the video (since both position and motion are important). Recent deep learning approaches attempt to extract those features end-to-end.
 In this project, we present LipNet, which is to the best of our knowledge, the first end-to-end sentence-level lipreading model.
-This Project has been built upon the paper “LIPNET: END-TO-END SENTENCE-LEVEL LIPREADING” ![image](https://github.com/VedantMankar/lip-reading-deeplearning/assets/51293708/8042a4b7-1997-491d-aedf-5fbf3eb64e2b)
+This Project has been built upon the paper [“LIPNET: END-TO-END SENTENCE-LEVEL LIPREADING” ](https://arxiv.org/pdf/1611.01599.pdf)
 
 
 ### Dataset
