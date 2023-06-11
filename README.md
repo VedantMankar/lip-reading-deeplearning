@@ -7,8 +7,7 @@ This Project has been built upon the paper [“LIPNET: END-TO-END SENTENCE-LEVEL
 
 
 ### Dataset
-The Data has been taken from ‘GRID Corpus’. GRID is a large multitalker audiovisual sentence corpus to support joint computational-behavioral studies in speech perception. In brief, the corpus consists of high-quality audio and video (facial) recordings of 1000 sentences spoken by each of 34 talkers (18 male, 16 female). Sentences are of the form "put red at G9 now".  The corpus, together with transcriptions, is freely available for research use. The Dataset link is here.
-![image](https://github.com/VedantMankar/lip-reading-deeplearning/assets/51293708/f942e261-6d2c-44c1-9832-26a83ba3cec5)
+The Data has been taken from ‘GRID Corpus’. GRID is a large multitalker audiovisual sentence corpus to support joint computational-behavioral studies in speech perception. In brief, the corpus consists of high-quality audio and video (facial) recordings of 1000 sentences spoken by each of 34 talkers (18 male, 16 female). Sentences are of the form "put red at G9 now".  The corpus, together with transcriptions, is freely available for research use. The Dataset link is [here](https://spandh.dcs.shef.ac.uk/gridcorpus/).
 
 
 ### Deep Neural Network
